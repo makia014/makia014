@@ -1,6 +1,6 @@
-👋 Hi, I’m makia014
+👋 Hi, I’m Ana
 
-🌱 I’m currently learning web-development via https://www.theodinproject.com/
+🌱 I’m currently learning web-development via [The Odin Project](https://www.theodinproject.com/)
 
 
 ⚡ Fun fact: Star Trek and Stoicism fan
