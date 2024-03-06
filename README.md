@@ -1,6 +1,6 @@
 hey, I’m Ana
 
-🌱 currently learning web-development via [The Odin Project](https://www.theodinproject.com/) and I'm enjoying it quite a lot 😊
+🌱 currently learning web-development via [The Odin Project](https://www.theodinproject.com/) and enjoying it quite a lot 😊
 
 ⚡  fun fact: Star Trek sympathizer (*because of the cultural references and good humour*)
 
