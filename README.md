@@ -2,13 +2,12 @@ hey, I’m Ana
 
 🌱 currently learning web-development via [The Odin Project](https://www.theodinproject.com/) and enjoying it quite a lot 😊
 
-⚡  fun fact: Star Trek sympathizer (*because of the cultural references and good humour*)
+⚡  fun fact: Star Trek sympathizer
 
 🖖🏻 favorite quotes:
- - Mr. Spock: "Change is the essential process of all existence." (*allusion to Heraclit's philosophy of change?*)
- - Lieutenant Worf: "Thinking about what you can't control only wastes energy, and creates its own enemy." (*allusion to the Stoic Dichotomy of Control?*)
- - Captain Jean-Luc Picard: "Things are only impossible until they are not." (*alussion to Nelson's Mandela quote on perseverance?*)
-
+ - Mr. Spock: "Change is the essential process of all existence."
+ - Lieutenant Worf: "Thinking about what you can't control only wastes energy, and creates its own enemy."
+ - Captain Jean-Luc Picard: "Things are only impossible until they are not."
 <!--
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on 
